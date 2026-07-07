@@ -1,0 +1,465 @@
+{
+  "common": {
+    "view": "Zobacz"
+  },
+  "nav": {
+    "home": "Główna",
+    "about": "O nas",
+    "tours": "Nasze wycieczki",
+    "memories": "Wspomnienia",
+    "transfers": "Transfery",
+    "contact": "Kontakt"
+  },
+  "langGate": {
+    "title": "Witamy w Przygoda",
+    "subtitle": "Wybierz swój język, aby kontynuować",
+    "tagline": "Przygoda Czeka Na Ciebie!"
+  },
+  "hero": {
+    "headline": "Przygoda w Marsa Alam",
+    "subheadline": "Przygoda Czeka Na Ciebie!",
+    "cta": "Zarezerwuj swoją przygodę",
+    "facebook": "Odwiedź Facebook",
+    "instagram": "Odwiedź Instagram"
+  },
+  "showcase": {
+    "tagline": "Wycieczki z Przygoda",
+    "heading1": "Odkrywaj, Poznaj,",
+    "heading2": "& przeżywaj przygody",
+    "heading3": "w Egipcie.",
+    "readMore": "Opinie"
+  },
+  "about": {
+    "title": "O nas",
+    "description": "Oferujemy trzy kategorie przygód: wycieczki morskie, pustynne safari oraz wycieczki historyczne. Podczas wycieczek morskich możesz nurkować, aby zobaczyć krowę morską Dugong. W trakcie pustynnego safari możesz pojeździć na wielbłądzie. Na wycieczkach historycznych możesz zwiedzić Piramidy i Luksor.",
+    "description2": "Z wieloletnim doświadczeniem i głęboką miłością do naszej ojczyzny, łączymy podróżników z całego świata z autentycznymi egipskimi przygodami. Niezależnie od tego, czy szukasz emocjonujących jazd na quadach, spokojnych rejsów łodzią, czy wciągających safari na pustyni — mamy to dla Ciebie.",
+    "bento": {
+      "storyTitle1": "Kim Jesteśmy",
+      "storyTitle2": "Nasza Historia",
+      "philTitle": "Nasza Filozofia",
+      "philDesc": "Nie tylko sprzedajemy wycieczki; budujemy drogi do prawdziwego lokalnego kontaktu, dbając o bezpieczeństwo, ekologię i gościnność premium.",
+      "card3Title": "Cuda Morza Czerwonego",
+      "card3Desc": "Odkrywaj spektakularne rafy, sekretne miejsca do snorkelingu i bogate życie morskie z naszą profesjonalną załogą.",
+      "card4Title": "Pustynne Wyprawy",
+      "card4Desc": "Poczuj dreszczyk emocji podczas jazdy na quadach i obserwacji gwiazd na Saharze.",
+      "card5Title": "Wycieczki Historyczne",
+      "card5Desc": "Odkryj tajemnice starożytnego Egiptu, odwiedź majestatyczne świątynie w Luksorze i zobacz kultowe piramidy.",
+      "slogan": "Czeka Na Ciebie!"
+    }
+  },
+  "marquee": {
+    "pyramidsTrip": "Wycieczka do Piramid",
+    "luxorTour": "Wycieczka do Luksoru",
+    "diving": "Nurkowanie",
+    "safari": "Safari",
+    "seaTrips": "Rejsy Morskie"
+  },
+  "reviewsPage": {
+    "title": "Opinie Klientów",
+    "subtitle": "Przeczytaj prawdziwe opinie klientów, którzy odkrywali z nami najpiękniejsze miejsca w Egipcie.",
+    "allReviews": "Wszystkie Opinie",
+    "leaveReview": "Zostaw Opinię",
+    "noReviewsTitle": "Brak opinii",
+    "noReviewsDesc": "Obecnie zbieramy opinie od naszych podróżników. Zajrzyj tu wkrótce!",
+    "form": {
+      "title": "Napisz Opinię",
+      "subtitle": "Podziel się swoimi wrażeniami z podróży z innymi",
+      "nameLabel": "Twoje Imię",
+      "namePlaceholder": "Wpisz swoje imię...",
+      "ratingLabel": "Twoja Ocena",
+      "categoryLabel": "Kategoria Wycieczki",
+      "categorySelect": "Wybierz kategorię...",
+      "commentLabel": "Twoja Opinia",
+      "commentPlaceholder": "Opisz swoje wrażenia z wycieczki...",
+      "submit": "Wyślij Opinię",
+      "success": "Dziękujemy! Twoja opinia została dodana."
+    },
+    "items": {
+      "review1": {
+        "author": "Michał Kowalski",
+        "date": "Czerwiec 2026",
+        "comment": "Niewiarygodne doświadczenie! Przewodnik do snorkelingu miał ogromną wiedzę. Zobaczyliśmy żółwie, stado delfinów, a nawet rzadką krowę morską Dugong. Obiad na łodzi był pyszny. Polecam w 10/10!"
+      },
+      "review2": {
+        "author": "Emma Watson",
+        "date": "Maj 2026",
+        "comment": "Nasza rodzina wybrała się na safari na pustyni i był to główny punkt naszej podróży do Egiptu. Jazda na quadach po wydmach o zachodzie słońca była czystą magią, a obserwacja gwiazd w obozie Beduinów zapierała dech w piersiach. Dzieciom bardzo podobała się jazda na wielbłądzie."
+      },
+      "review3": {
+        "author": "Sarah Jenkins",
+        "date": "Kwiecień 2026",
+        "comment": "Wycieczka historyczna do Luksoru była absolutnie fascynująca. Nasz przewodnik mówił płynnie po angielsku, z pasją wyjaśniał detale hieroglifów i unikał sklepów z pamiątkami dla turystów. Super profesjonalnie i warte każdej złotówki!"
+      },
+      "review4": {
+        "author": "Katarzyna Nowak",
+        "date": "Czerwiec 2026",
+        "comment": "Świetna organizacja! Instruktorzy nurkowania są niezwykle cierpliwi i dbają o bezpieczeństwo. Trochę się denerwowałam nurkowaniem po raz pierwszy, ale sprawili, że poczułam się całkowicie zrelaksowana. Piękna rafa koralowa!"
+      },
+      "review5": {
+        "author": "David Miller",
+        "date": "Marzec 2026",
+        "comment": "Doskonale zorganizowane od rezerwacji do powrotu. Safari było ekscytujące, jazda na wielbłądzie spokojna, a tradycyjna kolacja beduińska niesamowicie smaczna. Bardzo przyjazny zespół."
+      }
+    }
+  },
+  "gallery": {
+    "viewMore": "Więcej Wspomnień"
+  },
+  "memoriesPage": {
+    "title": "Wspomnienia Klientów",
+    "subtitle": "Kolekcja pięknych, prawdziwych chwil dzielonych przez naszych klientów podczas wycieczek.",
+    "items": {
+      "item1": "Szczęśliwe rodziny cieszące się rejsem po Morzu Czerwonym.",
+      "item2": "Jazda na quadach o zachodzie słońca po wydmach Marsa Alam.",
+      "item3": "Obserwacja gwiazd i pokaz ognia w obozie beduińskim.",
+      "item4": "Snorkeling obok lokalnych zielonych żółwi morskich.",
+      "item5": "Zdjęcie grupowe przed wyruszeniem na pustynne safari.",
+      "item6": "Nurkowanie przy pięknych koralowcach w Marsa Alam.",
+      "item7": "Jazda na wielbłądach pustynnymi szlakami o zmierzchu.",
+      "item8": "Zwiedzanie starożytnych świątyń historycznych w Luksorze.",
+      "item9": "Relaks podczas prywatnej wycieczki motorówką.",
+      "item10": "Piękny widok na Wielkie Piramidy.",
+      "item11": "Obserwacja dzikich delfinów długoszczękich w Morzu Czerwonym.",
+      "item12": "Kolacja w stylu beduińskim pod rozgwieżdżonym niebem Sahary."
+    }
+  },
+  "tours": {
+    "title": "Nasze wycieczki",
+    "subtitle": "Wybierz swoją następną przygodę",
+    "readMore": "Czytaj więcej",
+    "sea": {
+      "title": "Wycieczki morskie",
+      "desc": "Przeżyj Morze Czerwone tak, jak nigdy dotąd: zanurz się w krystalicznie czystych wodach i odkrywaj ukryte rafy koralowe."
+    },
+    "safari": {
+      "title": "Safari na pustyni",
+      "desc": "Przeżyj pustynię tak, jak nigdy dotąd: poczuj dreszczyk emocji podczas jazdy po złotych wydmach, poznaj bogate tradycje Beduinów, obserwuj gwiazdy pod bezchmurnym niebem i ciesz się spokojną jazdą na wielbłądzie."
+    },
+    "adventure": {
+      "title": "Wycieczki historyczne",
+      "desc": "Cofnij się w czasie i zwiedź starożytne Piramidy, historyczne świątynie w Luksorze oraz poznaj bogatą historię Egiptu."
+    }
+  },
+  "why": {
+    "title": "Dlaczego my",
+    "subtitle": "Co wyróżnia Przygoda",
+    "guides": {
+      "title": "Profesjonalni przewodnicy",
+      "desc": "Doświadczeni lokalni przewodnicy, którzy znają każdy ukryty skarb."
+    },
+    "prices": {
+      "title": "Najlepsze ceny",
+      "desc": "Konkurencyjne ceny bez ukrytych opłat. Wartość dla każdego budżetu."
+    },
+    "safety": {
+      "title": "Bezpieczeństwo przede wszystkim",
+      "desc": "Twoje bezpieczeństwo jest naszym priorytetem. W pełni ubezpieczone wycieczki z certyfikowanym sprzętem."
+    },
+    "support": {
+      "title": "Wsparcie 24/7",
+      "desc": "Zawsze jesteśmy do Twojej dyspozycji. Skontaktuj się z nami o każdej porze przez WhatsApp."
+    }
+  },
+  "contact": {
+    "title": "Skontaktuj się",
+    "subtitle": "Śledź nas w mediach społecznościowych lub porozmawiaj z nami bezpośrednio",
+    "whatsapp": "Napisz na WhatsApp",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "tiktok": "TikTok",
+    "layoutSelector": "Wybór Układu Sekcji",
+    "layoutDesc": "Przygotowaliśmy trzy najwyższej klasy układy strukturalne dla stron kontaktowych. Stuknij jeden, aby natychmiast go zmienić.",
+    "layouts": {
+      "split": {
+        "name": "Nowoczesny Podział",
+        "desc": "Elegancka asymetria z ciemnoniebieskim panelem info i jasnym formularzem.",
+        "badge": "Popularny"
+      },
+      "bento": {
+        "name": "Siatka Bento",
+        "desc": "Modne klocki w stylu Apple zawierające interaktywne widżety i czaty.",
+        "badge": "Kreatywny"
+      },
+      "hero": {
+        "name": "Efektowny Hero",
+        "desc": "Wspaniały, pełnoekranowy moduł z pływającymi, szklanymi kartami.",
+        "badge": "Futurystyczny"
+      }
+    },
+    "form": {
+      "nameLabel": "Twoje Imię *",
+      "namePlaceholder": "Jan Kowalski",
+      "emailLabel": "Twój E-mail *",
+      "emailPlaceholder": "nazwa@domena.pl",
+      "subjectLabel": "Temat",
+      "subjectGeneral": "Zapytanie ogólne",
+      "subjectCollab": "Współpraca / Partnerstwo",
+      "subjectSupport": "Szybka pomoc",
+      "subjectFeedback": "Opinia / Pomysł",
+      "messageLabel": "Wiadomość *",
+      "messagePlaceholder": "Napisz nam o swoich pytaniach...",
+      "whatsappRoute": "Wyślij również przez WhatsApp!",
+      "whatsappRouteDesc": "Przekieruje Cię bezpośrednio do WhatsApp po wysłaniu, abyśmy mogli od razu porozmawiać.",
+      "submitSend": "Wyślij Wiadomość",
+      "submitSending": "Wysyłanie...",
+      "errName": "Proszę podać swoje imię",
+      "errEmail": "Proszę podać swój e-mail",
+      "errEmailValid": "Proszę podać poprawny adres e-mail",
+      "errMessage": "Proszę wpisać wiadomość"
+    },
+    "split": {
+      "badge": "Gotowy do rezerwacji",
+      "titlePart1": "BĄDŹMY W",
+      "titlePart2": "KONTAKCIE.",
+      "sendDirect": "Wyślij bezpośrednią wiadomość",
+      "hq": "Siedziba główna",
+      "hqValue": "Marsa Alam, Egipt",
+      "speed": "Czas odpowiedzi",
+      "speedValue": "W ciągu 2 godzin",
+      "socialChannels": "Bezpośrednie kanały społecznościowe",
+      "visitFacebook": "Obserwuj Przygoda",
+      "secureLedger": "Oficjalny Portal",
+      "formTitle": "Napisz do nas",
+      "formDesc": "Wypełnij poniższy formularz, a odpowiemy w ciągu 2 godzin."
+    },
+    "bento": {
+      "badge": "Centrum Kontaktu",
+      "titlePart1": "Skontaktuj się",
+      "titlePart2": "Przygoda",
+      "desc": "Śledź nas na Instagramie i Facebooku, aby być na bieżąco z naszymi najnowszymi wiadomościami i przygodami!",
+      "scrollDown": "Obserwuj nas",
+      "localTime": "Czas lokalny",
+      "hqDesc": "Odpowiadamy w ciągu 24 godzin",
+      "statusLabel": "Aktualny status:",
+      "statusValue": "Marsa Alam",
+      "badgeInstant": "Szybkie Połączenie",
+      "whatsappTitle": "Portal WhatsApp",
+      "whatsappDesc": "Zeskanuj kod QR lub kliknij przycisk poniżej, aby bezpiecznie wysłać przygotowaną wiadomość.",
+      "whatsappLaunch": "Rozpocznij czat",
+      "whatsappPrefilled": "Przygotowano: \"Witaj Przygoda!...\"",
+      "badgeVisual": "Galeria Zdjęć",
+      "instagramTitle": "Profil Instagram",
+      "instagramDesc": "Śledź nasze przygody. Codziennie dodajemy nowe zdjęcia i relacje z wypraw.",
+      "instagramFollow": "Obserwuj @przygoda",
+      "badgeBot": "Bot Messenger",
+      "botWelcome": "Witaj! Witamy w Przygoda. W czym możemy Ci dziś pomóc?",
+      "botTapPrompt": "Kliknij pytanie, aby przetestować bota:",
+      "botQ1": "Jakie usługi świadczycie?",
+      "botA1": "Organizujemy ekskluzywne wycieczki morskie, pustynne safari oraz jazdę na quadach w Marsa Alam!",
+      "botQ2": "Czy możemy dziś zarezerwować?",
+      "botA2": "Oczywiście! Po prostu wyślij nam wiadomość za pomocą formularza kontaktowego poniżej!",
+      "bentoFormBadge": "Oficjalny Kanał",
+      "bentoFormTitle": "Prześlij Dedykowane Zapytanie",
+      "bentoFormDesc": "Gotowy na odkrywanie? Wypełnij formularz tutaj, a natychmiast przekażemy Twoje dane do obsługi."
+    },
+    "hero": {
+      "badge": "Przygoda czeka",
+      "titlePart1": "Zaplanujmy Twoją",
+      "titlePart2": "kolejną przygodę.",
+      "desc": "Wybierz swój ulubiony kanał kontaktu poniżej. Niezależnie od tego, czy wolisz bezpośredni czat, sieci społecznościowe, czy formularz, jesteśmy do dyspozycji.",
+      "instagramTitle": "Instagram",
+      "instagramDesc": "Odwiedź @przygoda",
+      "instagramAction": "Zobacz profil",
+      "whatsappTitle": "Linia WhatsApp",
+      "whatsappDesc": "Bezpośredni czat z szablonem",
+      "whatsappAction": "Otwórz czat",
+      "facebookTitle": "Centrum Facebook",
+      "facebookDesc": "Kontakt / Fanpage",
+      "facebookAction": "Przejdź na stronę",
+      "formHeader": "Wyślij bezpieczną wiadomość"
+    },
+    "success": {
+      "title": "Wiadomość wysłana!",
+      "desc": "Dziękujemy, {name}. Twoja wiadomość została wysłana pomyślnie. Skontaktujemy się z Tobą wkrótce!",
+      "whatNext": "Co dzieje się dalej:",
+      "step1": "Automatyczne potwierdzenie zostało zapisane w naszym systemie.",
+      "step2": "Nasz zespół przetwarza Twoje zapytanie i skontaktuje się z Tobą przez WhatsApp lub e-mail.",
+      "dismiss": "Zamknij Okno"
+    }
+  },
+  "footer": {
+    "rights": "Wszelkie prawa zastrzeżone.",
+    "tagline": "Przygoda Czeka Na Ciebie!"
+  },
+  "adventuresPage": {
+    "title": "Nasze Wycieczki",
+    "subtitle": "Odkryj najlepsze atrakcje w Marsa Alam. Filtruj według kategorii, wybierz wycieczkę, aby zobaczyć szczegóły i zarezerwuj przygodę swoich marzeń.",
+    "categories": {
+      "all": "Wszystkie programy",
+      "sea": "Morskie",
+      "safari": "Pustynne safari",
+      "history": "Historyczne"
+    },
+    "labels": {
+      "duration": "Czas trwania",
+      "highlights": "Najważniejsze punkty",
+      "bookNow": "Zarezerwuj przez WhatsApp",
+      "viewDetails": "Zobacz szczegóły",
+      "close": "Zamknij szczegóły",
+      "whatsIncluded": "Co jest w cenie",
+      "whatsIncludedDesc": "Cały sprzęt, przewodnicy i transport są w pełni zorganizowane, aby zapewnić najwyższą jakość usług.",
+      "readyToReserve": "Chcesz dokonać rezerwacji?",
+      "secureInstantly": "Zarezerwuj wycieczkę natychmiast za pomocą gotowej wiadomości WhatsApp."
+    },
+    "programs": {
+      "sea": {
+        "marsa_mubarak": {
+          "title": "Wycieczka do Marsa Mubarak",
+          "desc": "Ciesz się magicznym dniem na pokładzie najlepszych jachtów, odkryj rezerwat Marsa Mubarak i pływaj w otoczeniu spektakularnych raf koralowych, kolorowych ryb, gigantycznych żółwi morskich oraz krów morskich (dugongów). Program obejmuje obiad w formie bufetu oraz napoje ciepłe i zimne.",
+          "duration": "8 godzin",
+          "highlights": [
+            "Rejs luksusowym jachtem do rezerwatu Marsa Mubarak",
+            "Pływanie z olbrzymimi żółwiami i rzadkimi krowami morskimi",
+            "Odkrywanie dziewiczych raf koralowych i tropikalnych ryb",
+            "Obiad w formie bufetu oraz ciepłe i zimne napoje w cenie"
+          ]
+        },
+        "dolphin": {
+          "title": "Samadai Dolphin House",
+          "desc": "Ciesz się magicznym dniem w rezerwacie Samadai, odkrywaj dziewicze rafy koralowe i przeżyj niesamowitą przygodę, pływając z dzikimi delfinami w ich naturalnym środowisku. Program obejmuje obiad, napoje oraz opłaty za wstęp do rezerwatu.",
+          "duration": "8 godzin",
+          "highlights": [
+            "Pływanie z dzikimi delfinami w ich naturalnej lagunie",
+            "Snorkeling w krystalicznie czystych wodach rafy Samadai",
+            "Opłaty za wstęp do rezerwatu wliczone w cenę",
+            "Obiad i orzeźwiające napoje serwowane na pokładzie"
+          ]
+        },
+        "abudabbab": {
+          "title": "Abu Dabbab",
+          "desc": "Spędź niezapomniane chwile na plażach rezerwatu Abu Dabbab. Odkryj piękno raf koralowych, popływaj z gigantycznymi żółwiami morskimi i wypatruj niezwykłej krowy morskiej (dugonga). Program obejmuje opłaty za wstęp do rezerwatu.",
+          "duration": "5 godzin",
+          "highlights": [
+            "Relaks na pięknej, piaszczystej plaży Abu Dabbab",
+            "Snorkeling bezpośrednio z brzegu i obserwacja żółwi",
+            "Szansa na zobaczenie rzadkiej krowy morskiej (dugonga)",
+            "Opłaty za wstęp do rezerwatu wliczone w cenę"
+          ]
+        },
+        "sharm_el_luli": {
+          "title": "Sharm El Luli",
+          "desc": "Spędź wspaniały czas na plaży Sharm El Luli, słynącej z krystalicznie czystej wody i białego piasku. Odwiedzisz również rezerwat Hankorab, lasy namorzynowe, rezerwat El Qulaan oraz słynne jezioro meteorytowe (Nayzak). Program obejmuje wszystkie opłaty za wstęp do rezerwatów.",
+          "duration": "6 godzin",
+          "highlights": [
+            "Relaks na dziewiczym, białym piasku plaży Sharm El Luli",
+            "Wizyta w rezerwacie Hankorab i podziwianie namorzynów",
+            "Odkrywanie malowniczego rezerwatu El Qulaan i naturalnego jeziora",
+            "Kąpiel w słynnym jeziorze meteorytowym (Nayzak)",
+            "Wszystkie opłaty za wstęp do rezerwatów wliczone w cenę"
+          ]
+        }
+      },
+      "safari": {
+        "super_quad": {
+          "title": "Moto 2 Godziny",
+          "desc": "To idealny wybór na pełen wrażeń wieczór z tradycyjnym klimatem.",
+          "duration": "Pół dnia",
+          "highlights": [
+            "30-kilometrowa przejażdżka quadem przez pustynię i malownicze tereny nadmorskie",
+            "Przejażdżka na wielbłądzie; poczuj prawdziwy klimat pustyni",
+            "Zachód słońca; niesamowity spektakl barw nad pustynnymi wzgórzami",
+            "Pyszna kolacja w formie bufetu w beduińskim stylu",
+            "Pokaz tańca orientalnego; tradycyjna muzyka i taniec brzucha pod gwiazdami",
+            "Obserwowanie gwiazd; magiczny wieczór z dala od świateł miasta"
+          ]
+        },
+        "moto_2_hours": {
+          "title": "Super Quad",
+          "desc": "Dla tych, którzy wolą powitać dzień lub cieszyć się spokojniejszą trasą.",
+          "duration": "2 godziny",
+          "highlights": [
+            "Wschód słońca; niesamowity, rześki początek dnia na pustyni",
+            "Zachód słońca (opcja wieczorna)",
+            "Prosta, relaksująca przejażdżka quadem wzdłuż plaży oraz przez pustynię"
+          ]
+        }
+      },
+      "history": {
+        "luxor": {
+          "title": "LUKSOR – (wycieczka jednodniowa lub z noclegiem)",
+          "desc": "Wycieczka rozpoczyna się wcześnie rano prywatnym samochodem lub busem (maksymalnie 8 osób). Odwiedzisz Dolinę Królów, Świątynię Hatszepsut, Świątynię Karnak oraz Kolosy Memnona z profesjonalnym przewodnikiem. Obiad w cenie. Opcja z noclegiem obejmuje również hotel oraz lot balonem na ogrzane powietrze.",
+          "duration": "1-2 Dni",
+          "highlights": [
+            "Dolina Królów, Świątynia Hatszepsut i Karnak",
+            "Kolosy Memnona z profesjonalnym przewodnikiem",
+            "Pyszny obiad wliczony w cenę",
+            "Opcja z noclegiem obejmuje hotel i lot balonem"
+          ]
+        },
+        "cairo": {
+          "title": "KAIR",
+          "desc": "Wycieczka do Kairu rozpoczyna się wcześnie rano. Możesz podróżować prywatnym samochodem, autobusem lub samolotem z Hurghady. Podczas wycieczki odwiedzisz Piramidy w Gizie, Sfinksa oraz Wielkie Muzeum Egipskie. Profesjonalny przewodnik będzie towarzyszył Ci przez całą wycieczkę i opowie ciekawe fakty historyczne. Obiad w cenie.",
+          "duration": "16 Godzin",
+          "highlights": [
+            "Piramidy w Gizie i Sfinks",
+            "Wizyta w Wielkim Muzeum Egipskim",
+            "Profesjonalny przewodnik i ciekawa historia",
+            "Pyszny obiad wliczony w cenę"
+          ]
+        },
+        "transfers": {
+          "title": "TRANSFERY LOTNISKOWE",
+          "desc": "Oferujemy niezawodne prywatne transfery lotniskowe do i z hoteli w Marsa Alam i Hurghadzie. Nasza usługa obejmuje punktualny odbiór, komfortowe klimatyzowane pojazdy oraz profesjonalnych, doświadczonych kierowców. Niezależnie od tego, czy przylatujesz czy odlatujesz – gwarantujemy bezstresową podróż.",
+          "duration": "Elastyczne",
+          "highlights": [
+            "Prywatne transfery lotniskowe Marsa Alam & Hurghada",
+            "Punktualny odbiór i bezstresowa podróż",
+            "Komfortowe, klimatyzowane pojazdy",
+            "Profesjonalni, doświadczeni kierowcy"
+          ]
+        },
+        "marsa_alam_city": {
+          "title": "MARSA ALAM – WYCIECZKA PO MIEŚCIE",
+          "desc": "Odkryj urok Marsa Alam podczas wycieczki z przewodnikiem po mieście. Spaceruj tradycyjnymi ulicami, odkrywaj lokalne domy i poznaj codzienne życie mieszkańców. Odwiedź tętniący życiem lokalny targ, gdzie kolorowe przyprawy, ręcznie robione pamiątki i przyjazna atmosfera targowania tworzą prawdziwy orientalny klimat.",
+          "duration": "4 Godziny",
+          "highlights": [
+            "Spacer z przewodnikiem tradycyjnymi ulicami",
+            "Poznanie codziennego życia mieszkańców",
+            "Tętniący życiem lokalny targ przypraw i pamiątek",
+            "Przyjazna atmosfera i orientalny klimat"
+          ]
+        },
+        "el_quseir": {
+          "title": "EL QUSEIR",
+          "desc": "Poznaj historyczny urok El Quseir – jednego z najstarszych miast nad Morzem Czerwonym. Spaceruj tradycyjnymi ulicami, odkrywaj lokalne domy i tętniące życiem targi. Odwiedź ważne zabytki, w tym meczet i kościół koptyjski, i poznaj fascynującą historię miasta z profesjonalnym przewodnikiem.",
+          "duration": "5 Godzin",
+          "highlights": [
+            "Zwiedzanie jednego z najstarszych miast nad Morzem Czerwonym",
+            "Wizyta w meczecie oraz kościele koptyjskim",
+            "Tradycyjne uliczki, lokalne domy i targi",
+            "Fascynująca historia z profesjonalnym przewodnikiem"
+          ]
+        }
+      }
+    }
+  },
+  "transfersPage": {
+    "title": "Transfery Lotniskowe",
+    "subtitle": "Wygodne, punktualne i bezpieczne prywatne transfery z/na lotniska w Marsa Alam i Hurghadzie.",
+    "introTitle": "Niezawodne Prywatne Transfery Lotniskowe",
+    "introDesc": "Oferujemy niezawodne prywatne transfery lotniskowe do i z hoteli w Marsa Alam i Hurghadzie. Nasza usługa obejmuje punktualny odbiór, komfortowe klimatyzowane pojazdy oraz profesjonalnych, doświadczonych kierowców. Niezależnie od tego, czy przylatujesz czy odlatujesz – gwarantujemy bezstresową podróż.",
+    "features": {
+      "punctual": {
+        "title": "Punktualność i Niezawodność",
+        "desc": "Monitorujemy status Twojego lotu, aby upewnić się, że nasz kierowca czeka na Ciebie na czas, nawet w przypadku opóźnień."
+      },
+      "comfort": {
+        "title": "Najwyższy Komfort",
+        "desc": "Podróżuj w komfortowych, czystych i w pełni klimatyzowanych nowoczesnych prywatnych pojadzach."
+      },
+      "safety": {
+        "title": "Profesjonalni Kierowcy",
+        "desc": "Nasi doświadczeni, uprzejmi i licencjonowani kierowcy stawiają Twoje bezpieczeństwo i spokój ducha na pierwszym miejscu."
+      },
+      "pricing": {
+        "title": "Stałe Ceny",
+        "desc": "Przejrzyste stawki bez ukrytych opłat i dodatkowych kosztów. Płacisz dokładnie tyle, ile uzgodniono."
+      }
+    },
+    "cta": "Zarezerwuj Transfer",
+    "whatsappText": "Cześć! Chciał(a)bym zarezerwować prywatny transfer lotniskowy.",
+    "taxiHeader": "Potrzebujesz taksówki w innym celu?",
+    "taxiDesc": "Potrzebujesz więcej informacji?",
+    "contactUs": "Skontaktuj się z nami"
+  }
+}

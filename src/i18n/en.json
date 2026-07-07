@@ -1,0 +1,465 @@
+{
+  "common": {
+    "view": "View"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "tours": "Our Tours",
+    "memories": "Memories",
+    "transfers": "Transfers",
+    "contact": "Contact"
+  },
+  "langGate": {
+    "title": "Welcome to Przygoda",
+    "subtitle": "Choose your language to continue",
+    "tagline": "Adventure Awaits You!"
+  },
+  "hero": {
+    "headline": "Adventure in Marsa Alam",
+    "subheadline": "Adventure Awaits You!",
+    "cta": "Book Your Adventure",
+    "facebook": "Visit Facebook",
+    "instagram": "Visit Instagram"
+  },
+  "showcase": {
+    "tagline": "Tours by Przygoda",
+    "heading1": "Explore, Discover,",
+    "heading2": "& adventure across",
+    "heading3": "Egypt.",
+    "readMore": "Read reviews"
+  },
+  "about": {
+    "title": "About Us",
+    "description": "We offer three categories of adventures: Sea Tours, Desert Safari, and History Tours. On our Sea Tours, you can go diving to see the sea cow Dugong. During a Desert Safari, you can ride a camel. On our History Tours, you can visit the Pyramids and Luxor.",
+    "description2": "With years of experience and a deep love for our homeland, we connect travelers from around the world with authentic Egyptian adventures. Whether you're seeking adrenaline-pumping quad bike rides, serene boat trips, or immersive desert safaris — we've got you covered.",
+    "bento": {
+      "storyTitle1": "Who We Are",
+      "storyTitle2": "Our Story",
+      "philTitle": "Our Philosophy",
+      "philDesc": "We don't just sell tours; we build pathways to genuine local connection, prioritizing safety, eco-friendly practices, and premium hospitality.",
+      "card3Title": "Red Sea Wonders",
+      "card3Desc": "Explore spectacular reefs, secret snorkeling spots, and vibrant marine life with our professional crew.",
+      "card4Title": "Desert Safaris",
+      "card4Desc": "Feel the thrill of quad biking, stargazing, and camel rides in the majestic Sahara desert.",
+      "card5Title": "History Tours",
+      "card5Desc": "Discover the secrets of ancient Egypt, visit majestic temples in Luxor, and explore the iconic pyramids.",
+      "slogan": "Adventure Awaits You!"
+    }
+  },
+  "marquee": {
+    "pyramidsTrip": "Pyramids Trip",
+    "luxorTour": "Luxor Tour",
+    "diving": "Diving",
+    "safari": "Safari",
+    "seaTrips": "Sea Trips"
+  },
+  "reviewsPage": {
+    "title": "Clients Reviews",
+    "subtitle": "Read genuine feedback from clients who explored Egypt's most breathtaking spots with us.",
+    "allReviews": "All Reviews",
+    "leaveReview": "Leave a Review",
+    "noReviewsTitle": "No Reviews Yet",
+    "noReviewsDesc": "We are currently gathering feedback from our adventurers. Check back soon for new reviews!",
+    "form": {
+      "title": "Leave a Review",
+      "subtitle": "Share your journey with other adventurers",
+      "nameLabel": "Your Name",
+      "namePlaceholder": "Enter your name...",
+      "ratingLabel": "Your Rating",
+      "categoryLabel": "Tour Category",
+      "categorySelect": "Select category...",
+      "commentLabel": "Your Review",
+      "commentPlaceholder": "Tell us about your experience...",
+      "submit": "Submit Review",
+      "success": "Thank you! Your review has been added."
+    },
+    "items": {
+      "review1": {
+        "author": "Michał Kowalski",
+        "date": "June 2026",
+        "comment": "Unbelievable experience! The snorkeling guide was incredibly knowledgeable. We saw turtles, a dolphin pod, and even got a glimpse of the rare Dugong. The lunch on the boat was delicious. 10/10 recommendation!"
+      },
+      "review2": {
+        "author": "Emma Watson",
+        "date": "May 2026",
+        "comment": "Our family did the desert safari and it was the highlight of our Egypt trip. Quad biking over the dunes at sunset was magic, and the stargazing at the Bedouin camp was breathtaking. The kids loved the camel ride."
+      },
+      "review3": {
+        "author": "Sarah Jenkins",
+        "date": "April 2026",
+        "comment": "The history tour of Luxor was absolutely fascinating. Our guide spoke fluent English, explained the hieroglyphic details with passion, and avoided the tourist trap souvenir shops. Super professional and worth every penny!"
+      },
+      "review4": {
+        "author": "Katarzyna Nowak",
+        "date": "June 2026",
+        "comment": "Amazing organization! The dive instructors are extremely patient and safety-conscious. I was a bit nervous about scuba diving for the first time, but they made me feel completely relaxed. Beautiful coral reef!"
+      },
+      "review5": {
+        "author": "David Miller",
+        "date": "March 2026",
+        "comment": "Excellent communication from booking to drop-off. The safari was thrilling, the camel ride was peaceful, and the traditional Bedouin dinner was incredibly tasty. Very friendly team."
+      }
+    }
+  },
+  "gallery": {
+    "viewMore": "View More Memories"
+  },
+  "memoriesPage": {
+    "title": "Client Memories",
+    "subtitle": "A collection of beautiful, real moments shared by our clients on their tours.",
+    "items": {
+      "item1": "Happy families enjoying their Red Sea boat cruise.",
+      "item2": "Sunset quad biking across Marsa Alam dunes.",
+      "item3": "Stargazing and fire show at the Bedouin camp.",
+      "item4": "Snorkeling alongside local green sea turtles.",
+      "item5": "Group photo before heading out on desert safari.",
+      "item6": "Diving with beautiful corals in Marsa Alam.",
+      "item7": "Riding camels through desert trails at dusk.",
+      "item8": "Exploring ancient historic temples in Luxor.",
+      "item9": "Relaxing on a private speed boat excursion.",
+      "item10": "A beautiful view of the Great Pyramids.",
+      "item11": "Spotting wild spinner dolphins in the Red Sea.",
+      "item12": "Bedouin style dinner under a starry Sahara night."
+    }
+  },
+  "tours": {
+    "title": "Our Tours",
+    "subtitle": "Choose your next adventure",
+    "readMore": "Read More",
+    "sea": {
+      "title": "Sea Tours",
+      "desc": "Experience the Red Sea like you never have before: plunge into crystal-clear waters and discover hidden coral reefs."
+    },
+    "safari": {
+      "title": "Desert Safari",
+      "desc": "Experience the desert like you never have before: feel the rush of racing across golden dunes, connect with rich Bedouin traditions, stargaze under open skies, and enjoy a peaceful camel trek."
+    },
+    "adventure": {
+      "title": "History Tours",
+      "desc": "Travel back in time to visit the ancient Pyramids, historic temples in Luxor, and discover Egypt's rich legacy."
+    }
+  },
+  "why": {
+    "title": "Why Choose Us",
+    "subtitle": "What makes Przygoda special",
+    "guides": {
+      "title": "Professional Guides",
+      "desc": "Experienced local guides who know every hidden gem."
+    },
+    "prices": {
+      "title": "Best Prices",
+      "desc": "Competitive pricing with no hidden fees. Value for every budget."
+    },
+    "safety": {
+      "title": "Safety First",
+      "desc": "Your safety is our top priority. Fully insured tours with certified equipment."
+    },
+    "support": {
+      "title": "24/7 Support",
+      "desc": "We're always here for you. Reach us anytime via WhatsApp."
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Follow us on social media or chat with us directly",
+    "whatsapp": "Chat on WhatsApp",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "tiktok": "TikTok",
+    "layoutSelector": "Section Layout Selector",
+    "layoutDesc": "We have compiled three top-tier structural paradigms for contact pages. Tap one to swap instantly.",
+    "layouts": {
+      "split": {
+        "name": "Split Modernism",
+        "desc": "Elegant asymmetry with a brand-navy focus side and a clean white form container.",
+        "badge": "Popular"
+      },
+      "bento": {
+        "name": "Bento Grid",
+        "desc": "Trendy Apple-style blocks containing custom interactive widgets, maps, and chats.",
+        "badge": "Creative"
+      },
+      "hero": {
+        "name": "Glassmorphic Hero",
+        "desc": "A gorgeous full-screen immersive hero module with floating frosted glass cards.",
+        "badge": "Futuristic"
+      }
+    },
+    "form": {
+      "nameLabel": "Your Name *",
+      "namePlaceholder": "Ahmed Mohamed",
+      "emailLabel": "Your Email *",
+      "emailPlaceholder": "name@domain.com",
+      "subjectLabel": "Subject",
+      "subjectGeneral": "General Inquiry",
+      "subjectCollab": "Collaboration / Partnership",
+      "subjectSupport": "Quick Support Needed",
+      "subjectFeedback": "Creative Feedback",
+      "messageLabel": "Message *",
+      "messagePlaceholder": "Tell us about your questions...",
+      "whatsappRoute": "Route through WhatsApp too!",
+      "whatsappRouteDesc": "Redirects you straight to WhatsApp on submission so we can chat immediately.",
+      "submitSend": "Send Message",
+      "submitSending": "Transmitting...",
+      "errName": "Please enter your name",
+      "errEmail": "Please enter your email",
+      "errEmailValid": "Please enter a valid email",
+      "errMessage": "Please enter your message"
+    },
+    "split": {
+      "badge": "Available for Booking",
+      "titlePart1": "GET IN",
+      "titlePart2": "TOUCH.",
+      "sendDirect": "Send a direct message",
+      "hq": "Headquarters",
+      "hqValue": "Marsa Alam, Egypt",
+      "speed": "Response Speed",
+      "speedValue": "Within 2 Hours",
+      "socialChannels": "Direct Social Channels",
+      "visitFacebook": "Follow Przygoda",
+      "secureLedger": "Official Portal",
+      "formTitle": "Drop Us a Note",
+      "formDesc": "Fill out the form below and we will respond back within 2 hours."
+    },
+    "bento": {
+      "badge": "Contact Hub",
+      "titlePart1": "Get in Touch",
+      "titlePart2": "Przygoda",
+      "desc": "Follow us on Instagram and Facebook to stay updated with all our latest news and adventures!",
+      "scrollDown": "Follow us",
+      "localTime": "Local Time",
+      "hqDesc": "We answer within 24 hours",
+      "statusLabel": "Current Status:",
+      "statusValue": "Marsa Alam",
+      "badgeInstant": "Instant Connection",
+      "whatsappTitle": "WhatsApp Portal",
+      "whatsappDesc": "Scan the QR code or tap launch below to fire an instant prefilled chat message securely.",
+      "whatsappLaunch": "Launch Quick Chat",
+      "whatsappPrefilled": "Prefilled: \"Hello Przygoda!...\"",
+      "badgeVisual": "Visual Grid",
+      "instagramTitle": "Instagram Feed",
+      "instagramDesc": "Follow our adventures. We upload new photos and trip logs daily.",
+      "instagramFollow": "Follow @przygoda",
+      "badgeBot": "Messenger Bot",
+      "botWelcome": "Hello! Welcome to Przygoda. How can we help you today?",
+      "botTapPrompt": "Tap a question to test bot:",
+      "botQ1": "What services do you provide?",
+      "botA1": "We organize premium sea tours, desert safaris, and quad biking in Marsa Alam!",
+      "botQ2": "Can we book today?",
+      "botA2": "Absolutely! Simply send us a message through the contact form below!",
+      "bentoFormBadge": "Official Channel",
+      "bentoFormTitle": "Submit a Dedicated Proposal",
+      "bentoFormDesc": "Ready to explore? File an inquiry here, and we will route your details instantly."
+    },
+    "hero": {
+      "badge": "Adventure Awaits",
+      "titlePart1": "Let's plan your",
+      "titlePart2": "next adventure.",
+      "desc": "Choose your preferred channel below. Whether it's direct chat, social networks, or a formal submission, our bridge is open.",
+      "instagramTitle": "Instagram",
+      "instagramDesc": "Visit @przygoda",
+      "instagramAction": "Explore Feed",
+      "whatsappTitle": "WhatsApp Line",
+      "whatsappDesc": "Direct prefilled chat",
+      "whatsappAction": "Open Message",
+      "facebookTitle": "Facebook Hub",
+      "facebookDesc": "Connect / Page",
+      "facebookAction": "Connect Page",
+      "formHeader": "Dispatch secure message"
+    },
+    "success": {
+      "title": "Message Transmitted!",
+      "desc": "Thank you, {name}. Your message has been sent successfully. We will get back to you shortly!",
+      "whatNext": "What happens next:",
+      "step1": "An automated confirmation is recorded in our system.",
+      "step2": "Our team processes your request and will contact you via WhatsApp or Email.",
+      "dismiss": "Dismiss Window"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "tagline": "Adventure Awaits You!"
+  },
+  "adventuresPage": {
+    "title": "Our Adventures",
+    "subtitle": "Discover the best things to do in Marsa Alam. Filter by category, select a tour to view full details, and book your dream adventure.",
+    "categories": {
+      "all": "All Programs",
+      "sea": "Sea Tours",
+      "safari": "Desert Safari",
+      "history": "History Tours"
+    },
+    "labels": {
+      "duration": "Duration",
+      "highlights": "Highlights",
+      "bookNow": "Book on WhatsApp",
+      "viewDetails": "View Details",
+      "close": "Close Details",
+      "whatsIncluded": "What's Included",
+      "whatsIncludedDesc": "All equipment, guides, and transportation are fully organized for a premium experience.",
+      "readyToReserve": "Ready to reserve?",
+      "secureInstantly": "Secure your tour instantly via WhatsApp pre-filled chat."
+    },
+    "programs": {
+      "sea": {
+        "marsa_mubarak": {
+          "title": "Marsa Mubarak Trip",
+          "desc": "Enjoy a magical day aboard the best marine yachts, explore the Marsa Mubarak protectorate, and swim alongside spectacular coral reefs, vibrant fish, giant sea turtles, and dugongs (sea cows). The program includes a delicious lunch buffet and hot & cold beverages.",
+          "duration": "8 Hours",
+          "highlights": [
+            "Sail on a premium yacht to the Marsa Mubarak protectorate",
+            "Swim with giant green sea turtles and rare dugongs (sea cows)",
+            "Explore vibrant coral reefs and tropical fish species",
+            "Delicious lunch buffet and hot/cold drinks included on board"
+          ]
+        },
+        "dolphin": {
+          "title": "Samadai Dolphin House",
+          "desc": "Enjoy a magical day in the Samadai protectorate, explore the pristine coral reefs, and experience the thrill of swimming with wild dolphins in their natural habitat. The program includes lunch, beverages, and national park entry fees.",
+          "duration": "8 Hours",
+          "highlights": [
+            "Swim with wild spinner dolphins in their natural lagoon",
+            "Snorkel in the crystal-clear waters of the Samadai Reef",
+            "National park entrance fees included in the price",
+            "Delicious lunch and refreshing drinks served on board"
+          ]
+        },
+        "abudabbab": {
+          "title": "Abu Dabbab",
+          "desc": "Spend an unforgettable time on the beaches of the Abu Dabbab protectorate. Explore the beauty of the coral reefs, swim alongside giant sea turtles, and spot the unique dugong (sea cow). The program includes national park entry fees.",
+          "duration": "5 Hours",
+          "highlights": [
+            "Relax on the beautiful sandy beach of Abu Dabbab",
+            "Snorkel directly from the beach to see giant green turtles",
+            "Opportunity to spot the rare dugong (sea cow)",
+            "National park entry fees included in the program"
+          ]
+        },
+        "sharm_el_luli": {
+          "title": "Sharm El Luli",
+          "desc": "Spend a wonderful time at Sharm El Luli beach, known for its crystal-clear water and white sands. You will also visit the Hankorab protectorate, mangrove forests, the El Qulaan protectorate, and the Meteor Lake (Nayzak). The program includes all national park entry fees.",
+          "duration": "6 Hours",
+          "highlights": [
+            "Relax on the pristine white sands of Sharm El Luli beach",
+            "Visit the Hankorab protectorate and its unique mangrove trees",
+            "Explore the beautiful El Qulaan protectorate and natural lake",
+            "Visit the famous Meteor Lake (Nayzak) for a dip",
+            "All national park entry fees included in the price"
+          ]
+        }
+      },
+      "safari": {
+        "super_quad": {
+          "title": "Moto 2 Hours",
+          "desc": "The perfect choice for an exciting evening with a traditional atmosphere.",
+          "duration": "Half Day",
+          "highlights": [
+            "30-kilometer quad bike ride through the desert and scenic coastal areas",
+            "Camel ride to experience the true desert vibe",
+            "Incredible spectacle of colors over the desert hills at sunset",
+            "Delicious buffet dinner in Bedouin style",
+            "Oriental dance show with traditional music and belly dance",
+            "Stargazing on a magical evening away from city lights"
+          ]
+        },
+        "moto_2_hours": {
+          "title": "Super Quad",
+          "desc": "For those who prefer to welcome the day or enjoy a more peaceful route.",
+          "duration": "2 Hours",
+          "highlights": [
+            "Sunrise; an incredible, crisp start to the day in the desert",
+            "Sunset (evening option available)",
+            "Simple, relaxing quad bike ride along the beach and through the desert"
+          ]
+        }
+      },
+      "history": {
+        "luxor": {
+          "title": "LUXOR (Day Trip or Overnight Option)",
+          "desc": "The excursion starts early in the morning by private car or minibus (maximum 8 people). You will visit the Valley of the Kings, Hatshepsut Temple, Karnak Temple, and the Colossi of Memnon with a professional guide. Lunch included. The overnight option also includes hotel accommodation and a hot air balloon flight.",
+          "duration": "1-2 Days",
+          "highlights": [
+            "Valley of the Kings, Hatshepsut and Karnak Temples",
+            "Colossi of Memnon with a professional guide",
+            "Delicious local lunch included in the price",
+            "Overnight option includes hotel and hot air balloon flight"
+          ]
+        },
+        "cairo": {
+          "title": "CAIRO",
+          "desc": "The day trip to Cairo starts early in the morning. You can travel by private car, bus, or plane from Hurghada. During the tour, you will visit the Pyramids of Giza, the Sphinx, and the Grand Egyptian Museum. A professional guide will accompany you throughout the excursion to share fascinating historical facts. Lunch included.",
+          "duration": "16 Hours",
+          "highlights": [
+            "Great Pyramids of Giza & the Great Sphinx",
+            "Guided tour of the Grand Egyptian Museum",
+            "Professional guide with deep historical insights",
+            "Delicious lunch included in the price"
+          ]
+        },
+        "transfers": {
+          "title": "AIRPORT TRANSFERS",
+          "desc": "We offer reliable private airport transfers to and from hotels in Marsa Alam and Hurghada. Our service includes punctual pickup, comfortable air-conditioned vehicles, and professional, experienced drivers. Whether you are arriving or departing, we guarantee a stress-free journey.",
+          "duration": "Flexible",
+          "highlights": [
+            "Private airport transfers Marsa Alam & Hurghada",
+            "Punctual pickup and hassle-free transit",
+            "Premium, comfortable air-conditioned vehicles",
+            "Professional, safe, and experienced drivers"
+          ]
+        },
+        "marsa_alam_city": {
+          "title": "MARSA ALAM CITY TOUR",
+          "desc": "Discover the charm of Marsa Alam on a guided city tour. Walk through traditional streets, discover local homes, and learn about the daily life of residents. Visit a vibrant local market, where colorful spices, handmade souvenirs, and a friendly bargaining atmosphere create a true oriental vibe.",
+          "duration": "4 Hours",
+          "highlights": [
+            "Guided walking tour of traditional streets",
+            "Learn about local culture and daily resident life",
+            "Vibrant spice and local souvenir market visit",
+            "Warm oriental vibe and friendly bargaining"
+          ]
+        },
+        "el_quseir": {
+          "title": "EL QUSEIR",
+          "desc": "Explore the historical charm of El Quseir, one of the oldest cities on the Red Sea. Wander through traditional streets, discover local homes and vibrant markets. Visit important landmarks, including the historic mosque and Coptic church, and learn about the city's fascinating history with a professional guide.",
+          "duration": "5 Hours",
+          "highlights": [
+            "Explore one of the oldest ports on the Red Sea",
+            "Visit the historic mosque and Coptic church",
+            "Traditional narrow streets, houses, and souks",
+            "Fascinating local history with a professional guide"
+          ]
+        }
+      }
+    }
+  },
+  "transfersPage": {
+    "title": "Airport Transfers",
+    "subtitle": "Comfortable, punctual, and safe private transfers to and from Marsa Alam & Hurghada airports.",
+    "introTitle": "Reliable Private Airport Transfers",
+    "introDesc": "We offer reliable private airport transfers to and from hotels in Marsa Alam and Hurghada. Our service includes punctual pickup, comfortable air-conditioned vehicles, and professional, experienced drivers. Whether you are arriving or departing, we guarantee a stress-free journey.",
+    "features": {
+      "punctual": {
+        "title": "Punctual & Reliable",
+        "desc": "We monitor your flight status to ensure our driver is waiting for you right on time, even if there are delays."
+      },
+      "comfort": {
+        "title": "Premium Comfort",
+        "desc": "Travel in comfortable, clean, and fully air-conditioned modern private vehicles."
+      },
+      "safety": {
+        "title": "Professional Drivers",
+        "desc": "Our experienced, polite, and licensed drivers prioritize your safety and peace of mind."
+      },
+      "pricing": {
+        "title": "Fixed Pricing",
+        "desc": "Transparent rates with no hidden fees or extra costs. What you see is what you pay."
+      }
+    },
+    "cta": "Book Transfer Now",
+    "whatsappText": "Hi! I would like to book a private airport transfer.",
+    "taxiHeader": "Need a Taxi for Something else?",
+    "taxiDesc": "Need More Information?",
+    "contactUs": "Contact Us"
+  }
+}
